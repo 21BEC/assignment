@@ -15,11 +15,11 @@
                 top: 0;
                 right: 0;
                 width: 100px;
-                border: 2px groove black;
+                border: 1px groove black;
             }
             .section{
                 background-color: white;
-                border: 2px groove black;
+                border: 1px groove black;
                 position: relative;
                 width: 90%;
                 margin-left: auto;
@@ -132,13 +132,13 @@
 }
 </style>
 <body>
-    <h1><b>Design that we seek</b></h1>
+    <h1>Design that we seek</h1>
     <div id="row">
     <div class="col-lg-4 col-md-6">
         <div class="section" id="section1">
             <div id="one_piece" class="boi">ONE PIECE</div>
             <article>
-            well this is a story of a boy named <b>LUFFY</b> who wants to be a king of pirates he also has the ability of a <i>gum gum no mi</i> devil fruit which makes you like a rubber man and as time passes we get to know the true name of luff's ability known as <i>sun god nika </i>
+            well this is a story of a boy named LUFFY who wants to be a king of pirates he also has the ability of a gum gum no mi devil fruit which makes you like a rubber man and as time passes we get to know the true name of luff's ability known as sun god nika
             </article>
         </div>
     </div>
@@ -146,16 +146,15 @@
         <div class="section" id="section2">
             <div id="naruto" class="boi">NARUTO</div>
             <article>
-                this the story of a boy whose parents were the head of the village known as <b>hokage</b> and they stored the chakura of <i>nine tails fox</i> who became the part of the naruto and helped him in becoming the <i>hokage</i> of the village.
+                this the story of a boy whose parents were the head of the village known as hokage and they stored the chakura of nine tails fox who became the part of the naruto and helped him in becoming the hokage of the village.
             </article>
-
         </div>
     </div>
     <div class="col-lg-4 col-md-12">
         <div class="section" id="section3">
             <div id="Bleach" class="boi">BLEACH</div>
             <article>
-                whoaa what's a coincidence that this is also a story of the boy named <i>ichigo kurosaki</i> he became the substitue soal reaper(shinigami) whose job is to protect his city by a attack of hollowes who are lead by the caption of the 9th army who was also a soal reaper but his main goal was to reach to the true god.
+                whoaa what's a coincidence that this is also a story of the boy named ichigo kurosaki he became the substitue soal reaper(shinigami) whose job is to protect his city by a attack of hollowes who are lead by the caption of the 9th army who was also a soal reaper but his main goal was to reach to the true god.
             </article>
         </div>
     </div>
