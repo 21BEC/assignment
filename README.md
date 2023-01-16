@@ -159,5 +159,4 @@
             </article>
         </div>
     </div>
-</body>
-    </html>    
+   
