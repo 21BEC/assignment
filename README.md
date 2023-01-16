@@ -1,7 +1,11 @@
-    <html>
+
+<html>
     <head>
         <title>peer graded Assignment 2</title></head>
         <style>
+            *{
+                box-sizing: border-box;
+            }
             h1{
                 text-align: center;
                 
@@ -13,11 +17,11 @@
                 top: 0;
                 right: 0;
                 width: 100px;
-                border: 1px blueviolet;
+                border: 2px groove black;
             }
             .section{
-                background-color: whitesmoke;
-                border: 1px black;
+                background-color: gray;
+                border: 1px groove black;
                 position: relative;
                 width: 90%;
                 margin-left: auto;
@@ -33,7 +37,7 @@
                 background-color: palegoldenrod;
             }
             #Bleach{
-                background-color: paleturquoise;
+                background-color: palevioletred;
             }
             .row{
                 width: 100%;
@@ -159,6 +163,5 @@
             </article>
         </div>
     </div>
-    </body>
-    </html>
-   
+</body>
+</html>
