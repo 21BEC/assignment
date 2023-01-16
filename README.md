@@ -1,4 +1,3 @@
-
 <html>
     <head>
         <title>peer graded Assignment 2</title></head>
@@ -7,8 +6,7 @@
                 box-sizing: border-box;
             }
             h1{
-                text-align: center;
-                
+                text-align: center; 
             }
             .boi{
                 text-align: center;
@@ -20,8 +18,8 @@
                 border: 2px groove black;
             }
             .section{
-                background-color: gray;
-                border: 1px groove black;
+                background-color: white;
+                border: 2px groove black;
                 position: relative;
                 width: 90%;
                 margin-left: auto;
@@ -125,9 +123,7 @@
   }
   .col-md-12 {
     width: 100%;
-  }
-
-  
+  } 
 }
 @media(max-width: 767px){
     .section{
